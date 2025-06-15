@@ -2,8 +2,6 @@ This is a [Next.js](https://nextjs.org) project with [`create-next-app`](https:/
 
 ## Getting Started
 
-working on it... </br>
-
 First, run the development server:
 
 ```bash
